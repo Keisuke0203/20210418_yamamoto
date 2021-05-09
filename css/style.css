@@ -118,6 +118,7 @@ li {
 
 .new-imformation {
   font-size: 28px;
+  text-align: center;
 }
 
 table,
@@ -127,7 +128,7 @@ th {
 }
 
 td {
-  margin-right: 20px;
+  width: 50px;
   font-size: 19px;
   line-height: 70px;
 }
@@ -147,7 +148,7 @@ table {
 }
 
 .space-a {
-  margin-right: 230px;
+  margin-right: 150px;
 }
 
 .border-top {
@@ -492,6 +493,7 @@ table {
 
 .information-img {
   height: 394px;
+  width: 50vw;
 }
 
 .information-ttl {
@@ -504,7 +506,9 @@ table {
 
 .interview-img {
   height: 394px;
+  width: 50vw;
 }
+
 
 .interview-ttl {
   color: white;
