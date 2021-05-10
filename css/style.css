@@ -101,7 +101,6 @@ li {
 
 .contents-news-title {
   position: relative;
-  margin-left: 440px;
 }
 
 .news {
@@ -114,29 +113,29 @@ li {
   font-family: "Indie Flower", cursive;
   margin-bottom: 10px;
   font-size: 20px;
+  margin-left: 450px;
 }
 
 .new-imformation {
   font-size: 28px;
-  text-align: center;
+  margin-left: 450px;
 }
 
 table,
 td,
 th {
   border-bottom: 0.5px solid gray;
+  margin: 0px auto;
 }
 
 td {
-  width: 50px;
   font-size: 19px;
   line-height: 70px;
 }
 
 table {
-  margin-top: 15px;
+  margin-top: 30px;
   position: relative;
-  margin-left: 440px;
 }
 
 .space {
@@ -153,18 +152,18 @@ table {
 
 .border-top {
   position: relative;
-  margin-top: 50px;
+  top: 30px;
   border: 1px solid gray;
   width: 875px;
-  margin-left: 440px;
+  margin: 0px auto;
 }
 
 .border-bottom {
   position: relative;
-  margin-top: 50px;
+  top: 30px;
   border: 1px solid gray;
   width: 875px;
-  margin-left: 440px;
+  margin: 0px auto;
 }
 
 /*ここからcontents-about*/
@@ -439,9 +438,10 @@ table {
 /*ここから会社概要*/
 
 .company {
-  color: gray;
   position: relative;
+  color: gray;
   height: 800px;
+  width: 100%;
 }
 
 .company-main-ttl {
@@ -461,12 +461,12 @@ table {
   font-size: 28px;
   color: gray;
   margin-left: 430px;
+  margin-bottom: 50px;
 }
 
 .company-table {
-  position: relative;
-  margin-top: 60px;
   border: solid 1px gray;
+  margin: 0px auto;
 }
 
 .company-left {
@@ -508,7 +508,6 @@ table {
   height: 394px;
   width: 50vw;
 }
-
 
 .interview-ttl {
   color: white;
